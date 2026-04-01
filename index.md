@@ -10,7 +10,7 @@ Hello! My name is Erick Garcia Dealba. I am a third-year Computer Science major.
 
 Hey, want to see some code? Here's a piece of code that wishes for a miracle to happen:
 
-'''
+```
 public void miracleSort(int[] arr) {
   boolean sorted = false;
   do {
@@ -23,8 +23,7 @@ public void miracleSort(int[] arr) {
     }
   } while (!sorted);
 }
-'''
-
+```
 ## Who am I as a person other than a student?
 
 Hello again! If you don't know my name already, my name is Erick Garcia Dealba. I am a person as well. I have hobbies. I mean, I **think** they are. 
