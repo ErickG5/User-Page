@@ -28,10 +28,10 @@ public void miracleSort(int[] arr) {
 
 Hello again! If you don't know my name already, my name is Erick Garcia Dealba. I am a person as well. I have hobbies. I mean, I **think** they are. 
 
-Hobby 1: [Music Production](#music-production)
+Hobby 1: [Music Production](#music-production)  
 Hobby 2: [Gaming](#gaming)
 
-### :guitar: Music Production
+### Music Production
 
 I absolutely **love** music! So I had a brilliant idea: why not take it upon myself to make music if I love it so much? So that's exactly what I did. I'm certaintly not the best at it, but I'm learning. I've been doing this for just about 4 years now. Want to know what music production has taught me?  
 Here's what it's taught me:
@@ -47,7 +47,7 @@ Now for things that I don't like that happens in a session going from most disli
 
 Other than that I enjoy doing this. Here's a shameless plugin: [Spotify](https://open.spotify.com/artist/5apVfVgsmf4TuO3htzg63E?si=3iKG-4h-SPe6rI47gTsp7A)
 
-### :video_game: Gaming
+### Gaming
 
 Does this even count as a hobby? ...I just searched it up and it is. The more you know. 
 If I had to name some games that I enjoy:
