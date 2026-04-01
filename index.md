@@ -46,9 +46,20 @@ Now for things that I don't like that happens in a session going from most disli
 4. Misclicking something small and not being able to figure out what
 
 As for process of how making a track goes, it goes something around the lines of:
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] Get an idea of how you want the song to be like
+- [ ] Start putting sounds together
+- [ ] Refine and keep refining
+- [ ] Adjust volumes, mix, master
+- [ ] Done! Probably.
+
+Truth be told I find myself like this:
+- [x] Get an idea of how you want the song to be like
+- [x] Start putting sounds together
+- [ ] Refine and keep refining
+- [ ] Adjust volumes, mix, master
+- [x] Done! Probably.
+
+See what didn't get marked as done? That's called perfectionism and it's a curse. I do not recommend having it.
 
 Other than that I enjoy doing this. Here's a shameless plugin: [Spotify](https://open.spotify.com/artist/5apVfVgsmf4TuO3htzg63E?si=3iKG-4h-SPe6rI47gTsp7A)
 
