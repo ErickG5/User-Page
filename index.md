@@ -70,4 +70,4 @@ Other than that, I like to play games with friends to be able to enjoy time with
 
 
 Click this for a surprise!: 
-[Surprise](User-Page/surprise.md)
+[Surprise](./surprise.md)
